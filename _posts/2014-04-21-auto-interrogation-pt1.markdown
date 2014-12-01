@@ -4,7 +4,7 @@ layout: post
 ---
 <br>
 <a href="http://www.kali.org/"><img src="{{ site.url }} /assets/kali-site-logo2.png" width="375"  hspace="30" vspace="15"></a>
-<a href="https://www.virtualbox.org/"><img src="{{ site.url }} /assets/VirtualboxIcon.png" height="75" hspace="30" vspace="15"></a>
+<a href="https://www.virtualbox.org/"><img src="{{ site.url }} /assets/VirtualboxIcon.png" height="150" hspace="30" vspace="15"></a>
 
 <br>
 <p class="lead">
