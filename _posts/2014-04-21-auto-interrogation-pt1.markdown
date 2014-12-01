@@ -3,7 +3,7 @@ title: “The Quest for Automated Interrogation pt 1”
 layout: post
 ---
 <br>
-<a href="http://www.kali.org/"><img src="{{ site.url }} /assets/kali-site-logo2.png" width="375"  hspace="30" vspace="15"></a>
+<a href="http://www.kali.org/"><img src="{{ site.url }} /assets/kali-site-logo2.png" hspace="30" vspace="15" class="img-responsive"></a>
 <a href="https://www.virtualbox.org/"><img src="{{ site.url }} /assets/VirtualboxIcon.png" height="125" hspace="30" vspace="15"></a>
 
 <br>
