@@ -3,11 +3,10 @@ title: “The Quest for Automated Interrogation pt 1”
 layout: post
 ---
 
-<div class="container">
-<div class="row"
 <br>
-<a href="http://www.kali.org/"><img src="{{ site.url }} /assets/kali-site-logo2.png" hspace="30" vspace="15" class="img-responsive"></a>
-<a href="https://www.virtualbox.org/"><img src="{{ site.url }} /assets/VirtualboxIcon.png" height="125" hspace="30" vspace="15"></a>
+<div class="col-sm-4"><a href="http://www.kali.org/"><img src="{{ site.url }} /assets/kali-site-logo2.png" hspace="30" vspace="15" class="img-responsive"></a></div>
+
+<div class="col-sm-8"><a href="https://www.virtualbox.org/"><img src="{{ site.url }} /assets/VirtualboxIcon.png" height="125" hspace="30" vspace="15"></a></div>
 </div>
 </div>
 
