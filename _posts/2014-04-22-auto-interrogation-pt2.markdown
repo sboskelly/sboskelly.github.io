@@ -369,7 +369,7 @@ localhost:8999/wavsep/<br>
 
 <p>
 <h3>OWASP Web Goat</h3>
-https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project<br>
+<a href="https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project">www.owasp.org</a><br>
 
 <br>
 access the application:<br>
