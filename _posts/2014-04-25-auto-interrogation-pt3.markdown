@@ -279,7 +279,7 @@ After hitting exploit you should be presented with 65,551 bytes of <strong>rando
 you run the scanner it will dump a new chunk of random leaked data. 
 
 <br>
-<img src="{{ site.url }} /assets/hbleed.png">
+<img src="{{ site.url }} /assets/hbleed.png" class="img-responsive">
 </p>
 
 Now if you want to dig a little deeper you can close the current Docker container and launch a new container with an interactive shell.
