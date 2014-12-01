@@ -260,7 +260,7 @@ For now, follow the instructions below for accessing each of the web application
 
 <p>
 <h3>Bodge It Store</h3>
-https://code.google.com/p/bodgeit/<br>
+<a href="https://code.google.com/p/bodgeit/">Project link</a><br>
 <br>
 access the application at:<br>
 localhost:8999/bodgeit<br>
@@ -273,7 +273,7 @@ http://www.mmeit.be/bwapp/<br>
 
 <br>
 access the application at:<br>
-localhost:8888/bWAPP/install.php<br>
+<a href="localhost:8888/bWAPP/install.php">Project link</a><br>
 <br>
 Follow the "click here to install bWAPP" link<br>
 <br>
@@ -288,7 +288,7 @@ http://www.dvwa.co.uk/<br>
 
 <br>
 access the application at:<br>
-localhost:8888/DVWA/setup.php<br>
+<a href="localhost:8888/DVWA/setup.php">Project link</a><br>
 <br>
 select create/reset database<br>
 <br>
@@ -301,7 +301,7 @@ password: password<br>
 
 <p>
 <h3>Exploit KB</h3>
-http://exploit.co.il/blog/<br>
+<a href="http://exploit.co.il/blog/">Project link</a><br>
 
 <br>
 access the application at:<br>
@@ -312,7 +312,7 @@ localhost:8888/exploit/index.php<br>
 
 <p>
 <h3>Mutillidae Project</h3>
-http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10<br>
+<a href="http://www.irongeek.com/i.php?page=mutillidae/mutillidae-deliberately-vulnerable-php-owasp-top-10">Project link</a><br>
 
 <br>
 access the application at:<br>
@@ -324,7 +324,7 @@ Click "Setup/Reset DB" link
 
 <p>
 <h3>Puzzlemall</h3>
-https://code.google.com/p/puzzlemall/<br>
+<a href="https://code.google.com/p/puzzlemall/">Project link</a><br>
 <br>
 install the application at:<br>
 localhost:8999/puzzlemall/install/initialize.jsp<br>
@@ -340,7 +340,7 @@ localhost:8999/puzzlemall/<br>
 
 <p>
 <h3>SQLi Labs</h3>
-https://github.com/Audi-1/sqli-labs<br>
+<a href="https://github.com/Audi-1/sqli-labs">Project link</a><br>
 
 <br>
 access the application:<br>
@@ -352,7 +352,7 @@ Click "Setup/reset Database for labs<br>
 
 <p>
 <h3>Wavsep</h3>
-https://code.google.com/p/wavsep/<br>
+<a href="https://code.google.com/p/wavsep/">Project link</a><br>
 <br>
 install the application at:<br>
 localhost:8999/wavsep/wavsep-install/install.jsp<br>
