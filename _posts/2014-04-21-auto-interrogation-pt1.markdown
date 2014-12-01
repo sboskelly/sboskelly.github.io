@@ -4,11 +4,9 @@ layout: post
 ---
 
 <br>
-<div class="row">
-<div class="col-sm-4"><a href="http://www.kali.org/"><img src="{{ site.url }} /assets/kali-site-logo2.png" hspace="30" vspace="15" class="img-responsive"></a></div>
+<a href="http://www.kali.org/"><img src="{{ site.url }} /assets/kali-site-logo2.png" width="100" hspace="30" vspace="15"></a>
 
-<div class="col-sm-8"><a href="https://www.virtualbox.org/"><img src="{{ site.url }} /assets/VirtualboxIcon.png" height="125" hspace="30" vspace="15"></a></div>
-</div>
+<a href="https://www.virtualbox.org/"><img src="{{ site.url }} /assets/VirtualboxIcon.png" height="125" hspace="30" vspace="15"></a>
 
 <br>
 <p class="lead">
