@@ -4,7 +4,7 @@ layout: post
 ---
 <br>
 
-<a href="http://www.vagrantup.com/"><img src="{{ site.url }} /assets/index.jpg" height="150"  hspace="30"></a>
+<a href="http://www.vagrantup.com/"><img src="{{ site.url }} /assets/index.jpg" height="150"  hspace="30" class="img-responsive"></a>
 
 <br>
 <p class="lead">
