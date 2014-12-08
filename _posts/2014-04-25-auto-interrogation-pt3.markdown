@@ -5,7 +5,9 @@ layout: post
 <br>
 
 <a href="http://heartbleed.com/"><img src="{{ site.url }} /assets/heart.jpg" height="140"  hspace="30" vspace="15" </a>
+
 <a href="http://www.packer.io/"><img src="{{ site.url }} /assets/mitchellh_24702982422030_small.png" width="260"  hspace="30" vspace="15"</a>
+
 <a href="http://www.docker.io/"><img src="{{ site.url }} /assets/homepage-docker-logo.png" height="140"  hspace="30" vspace="15"</a>
 
 <br>
@@ -61,7 +63,7 @@ You may be wondering after you realized how easy it was using Vagrant to pull an
 will be executed to fully automate the installation from A to Z. Combine this with  provisioners that fire off 
  custom shell scripts and you now have a powerful, trusted development tool that requires no user intervention 
  and can be shipped off to any development environment.
-</p>
+<p>
 
 <br>
 Read more about Packer here:<br>
