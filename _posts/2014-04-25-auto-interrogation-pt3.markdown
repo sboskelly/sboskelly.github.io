@@ -4,11 +4,13 @@ layout: post
 ---
 <br>
 
-<a href="http://heartbleed.com/"><img src="{{ site.url }} /assets/heart.jpg" height="140"  hspace="30" vspace="15" </a>
+<div id ="top">
+<a href="http://heartbleed.com/"><img src="{{ site.url }} /assets/heart.jpg" height="140"  hspace="30" vspace="15"> </a>
 
 <a href="http://www.packer.io/"><img src="{{ site.url }} /assets/mitchellh_24702982422030_small.png" width="260"  hspace="30" vspace="15"</a>
 
 <a href="http://www.docker.io/"><img src="{{ site.url }} /assets/homepage-docker-logo.png" height="140"  hspace="30" vspace="15"></a>
+</div>
 
 <br>
 <p class="lead">
